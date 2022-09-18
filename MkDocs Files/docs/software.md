@@ -63,4 +63,5 @@ ___
 | ------------ | ------------- | :------------: | :------------: |
 | Opsu! | Open source client of Osu! | ✔️ | [Post](software/OPSU.md) |
 | Flash Player Projector | Run .swf (Flash Player files) even after EOL. | ✔️ | [Post](software/FLASH.md) |
+| TG Pro | Temperature monitoring, fan control & diagnostics for all Macs | ✔️ | [Post](software/TGPRO.md) |
 | Eul | macOS status monitoring app written in SwiftUI | ✔️ | [Post](software/EUL.md) |
