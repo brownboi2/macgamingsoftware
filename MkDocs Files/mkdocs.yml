@@ -1,0 +1,7 @@
+site_name: Mac Gaming Links
+site_url:
+nav:
+- Main Page: mainpage.md
+- Software: software.md
+- Useful Info: usefulinfo.md
+theme: readthedocs
