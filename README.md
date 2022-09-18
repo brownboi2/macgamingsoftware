@@ -1,4 +1,4 @@
-# macgamingsoftware
+# What is the macgamingsoftware site?
 Pretty much just a website for a bunch of Mac gaming software. Visit: https://brownboi2.github.io/macgamingsoftware/software/index.html to see.
 
 # Want to submit apps?
