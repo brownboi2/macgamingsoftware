@@ -51,12 +51,17 @@ ___
 | ------------ | ------------- | :------------: | :------------: |
 | OpenLara | Classic Tomb Raider open-source engine | ✔️ | [Post](software/TOMB.md) |
 
-##Misc. Applications
+##Open Source Games
 | Software Name | Short Description | Recommended | Link to Post |
 | ------------ | ------------- | :------------: | :------------: |
 | Opsu! | Open source client of Osu! | ✔️ | [Post](software/OPSU.md) |
+
+##Misc. Applications
+| Software Name | Short Description | Recommended | Link to Post |
+| ------------ | ------------- | :------------: | :------------: |
 | Flash Player Projector | Run .swf (Flash Player files) even after EOL | ✔️ | [Post](software/FLASH.md) |
 | TG Pro | Temperature monitoring, fan control & diagnostics| ✔️ | [Post](software/TGPRO.md) |
 | Eul | macOS status monitoring app written in SwiftUI | ✔️ | [Post](software/EUL.md) |
 | Heroic Games Launcher | A GOG and Epic Games Launcher | ✔️ | [Post](software/HEROIC.md) |
 | MultiPatch | A ROM patching tool made for Macs | ✔️ | [Post](software/MULTI.md) |
+| Extractor | An application for extracting GOG installers | ✔️ | [Post](software/EXTRACTOR.md) |
