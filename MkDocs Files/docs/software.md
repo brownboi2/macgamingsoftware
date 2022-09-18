@@ -21,13 +21,6 @@ ___
 | Corgi3DS | An LLE dog-themed 3DS emulator | ❌ | [Post](software/CORGI.md) |
 | DOSBox | An x86 emulator with DOS | ✔️ | [Post](software/DOSBOX.md) |
 
-
-##Utilities
-| Software Name | Short Description | Recommended | Link to Post |
-| ------------ | ------------- | :------------: | :------------: | 
-| Heroic Games Launcher | A GOG and Epic Games Launcher | ✔️ | [Post](software/HEROIC.md) |
-| MultiPatch | A ROM patching tool made for Macs | ✔️ | [Post](software/MULTI.md) |
-
 ##Dual-booting Alternatives
 | Software Name | Short Description | Recommended | Link to Post |
 | ------------ | ------------- | :------------: | :------------: | 
@@ -58,10 +51,12 @@ ___
 | ------------ | ------------- | :------------: | :------------: |
 | OpenLara | Classic Tomb Raider open-source engine | ✔️ | [Post](software/TOMB.md) |
 
-##Misc.
+##Misc. Applications
 | Software Name | Short Description | Recommended | Link to Post |
 | ------------ | ------------- | :------------: | :------------: |
 | Opsu! | Open source client of Osu! | ✔️ | [Post](software/OPSU.md) |
-| Flash Player Projector | Run .swf (Flash Player files) even after EOL. | ✔️ | [Post](software/FLASH.md) |
-| TG Pro | Temperature monitoring, fan control & diagnostics for all Macs | ✔️ | [Post](software/TGPRO.md) |
+| Flash Player Projector | Run .swf (Flash Player files) even after EOL | ✔️ | [Post](software/FLASH.md) |
+| TG Pro | Temperature monitoring, fan control & diagnostics| ✔️ | [Post](software/TGPRO.md) |
 | Eul | macOS status monitoring app written in SwiftUI | ✔️ | [Post](software/EUL.md) |
+| Heroic Games Launcher | A GOG and Epic Games Launcher | ✔️ | [Post](software/HEROIC.md) |
+| MultiPatch | A ROM patching tool made for Macs | ✔️ | [Post](software/MULTI.md) |
